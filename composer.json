@@ -1,0 +1,21 @@
+{
+    "name": "humandevice/yii2-header-language-selector",
+    "description": "Bootstrap class to set application language by header attribute.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","utils","language","selector","header"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hubert Zapała",
+            "email": "hz@human-device.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "hd\\yii2\\bootstrap\\": ""
+        }
+    }
+}
